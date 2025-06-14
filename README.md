@@ -14,7 +14,7 @@ A Streamlit UI is provided for interactive chats and an executable script for qu
 * **Streamlit front-end** – chat with the agent in the browser.
 * **Architecture diagram** – see `application_flow.png` for an at-a-glance overview.
 
-![Application flow diagram](home_work_01/application_flow.png)
+![Application flow diagram](application_flow.png)
 
 ---
 
